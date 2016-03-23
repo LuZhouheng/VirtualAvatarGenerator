@@ -17,7 +17,7 @@
 //Must import this java library so that can build succesefully
 import java.util.Calendar;  //fix this bug from https://forum.processing.org/one/topic/error-when-trying-to-run-sketch-cannot-find-a-class-or-type-named-calendar.html
 
-final String inputPath = "TaobaoAvatar.jpg";
+final String inputPath = "inputs/TaobaoAvatar.jpg";
 int particelNum = 20000, speed = 200;
 boolean showImage = false;
 
@@ -31,7 +31,7 @@ int mode = 0, connectionMode = 0;
 
 void setup ()
 { 
-  img = loadImage("TaobaoAvatar.jpg");
+  img = loadImage("inputs/TaobaoAvatar.jpg");
   surface.setSize (img.width, img.height);
   smooth();
 
@@ -282,7 +282,7 @@ void keyPressed ()
   }
   if(keyCode == 'S')
   {
-    saveFrame("####.png");
+    saveFrame("data/outputs/####.jpg");
   }
 }
 
