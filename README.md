@@ -41,16 +41,23 @@
 	* 在 Mac 桌面上摆弄图像，构造一个个 Avatar，寻找更多的可能性。
 
 	![](http://7xrims.com1.z0.glb.clouddn.com/TaobaoAvatar_006.jpg)
+	
 	![](http://7xrims.com1.z0.glb.clouddn.com/TaobaoAvatar_002.jpg)
+	
 	![](http://7xrims.com1.z0.glb.clouddn.com/TaobaoAvatar_001.jpg)
+	
 	![](http://7xrims.com1.z0.glb.clouddn.com/TaobaoAvatar_008.jpg)
 	
 	* 利用 Processing 或 Openframeworks 进行绘画化处理。
 
 	![](http://7xrims.com1.z0.glb.clouddn.com/TaobaoAvatar_007.jpg)
+	
 	![](http://7xrims.com1.z0.glb.clouddn.com/TaobaoAvatar_009.jpg)
+	
 	![](http://7xrims.com1.z0.glb.clouddn.com/TaobaoAvatar_004.jpg)
+	
 	![](http://7xrims.com1.z0.glb.clouddn.com/TaobaoAvatar_010.jpg)
+	
 	![](http://7xrims.com1.z0.glb.clouddn.com/TaobaoAvatar_011.jpg)
 	
 	
